@@ -1,0 +1,116 @@
+*{
+	box-sizing: border-box;
+	}
+	
+.container{
+	display: inline-block;
+	width:300px;
+	height:500px;
+	padding:2%;
+	margin: 0 auto;
+	box-shadow: 2px 8px 5px 8px #DBD3EE;
+	
+
+}
+body{
+	display: flex;
+	margin:10% auto;
+	background-color: #DADEE9;
+}
+
+#first{
+	background-image: url('digital-nomad.png');
+	background-repeat: no repeat;
+	background-position: center;
+	
+
+}
+
+.close{
+margin:0px ;
+padding:10px;
+background-color: white;
+background-image: url('dot.png'),url('text.png');
+background-repeat: no-repeat;
+background-position: center,right;
+background-size: 20px;
+font-size: 12px;
+font-style: serif;
+position:relative; ;
+bottom:0;
+right: 0;
+left: 0;
+
+
+
+}
+
+.comment{
+	margin: 10px;
+	display: block;
+}
+.cc{
+	text-align: left;
+	padding: 5px;
+	font-size: 12px;
+	margin: 8px 0px 8px 35px;
+
+
+}
+
+img{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	float: left;
+}
+#s1{
+	float: left;
+	font-size: 58px;
+	padding: 5px;
+
+
+}
+p{
+	font-size:13.5px;
+	word-spacing: 2px;
+	letter-spacing: .9px;
+	line-height: 21px;
+	color: #788396;
+	padding: 2px;
+	margin-right:2px;
+}
+#second{
+	background-color: #f9fbff;
+}
+#third{
+	background-color: white;
+}
+
+#box1{
+	margin: 0px 0;
+	
+	padding: 30px 0 30px 0;
+}
+#box2{
+	margin: 40px 0;
+	padding:30px 20px 10px 0;
+	font-size: 40px;
+	font-style: sans-serif Roboto;
+
+}
+#box3{
+	margin: 40px 185px 20px 0;
+	padding: 8px 8px 8px 5px; 
+	font-size: 12px;
+	background-color: white;
+}
+.names{
+	margin:10px;
+	padding: 10px;
+}
+#t1{
+
+	text-align: center;
+
+}
